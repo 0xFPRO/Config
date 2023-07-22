@@ -2,7 +2,7 @@
   "notification": {
     "url": "https://www.nflex.one/",
     "title": "Neflix",
-    "contents": "<p>Neflix - Movies app for Android, iOS and TV.</p>",
+    "contents": "<img src="https://www.technogone.com/wp-content/uploads/2022/04/anime-x-stream-1024x578.webp" alt="Girl in a jacket" width="100%" height="500px"><br><p>Neflix - Movies app for Android, iOS and TV.</p>",
     "btn_title": "See more",
     "show": true,
     "key": "NOTI_1.5"
