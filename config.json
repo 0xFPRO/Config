@@ -1,8 +1,8 @@
 {
   "notification": {
     "url": "https://www.nflex.one/",
-    "title": "Neflix",
-    "contents": "<p>Neflix - Movies app for Android, iOS and TV.</p>",
+    "title": "لمشاهدة الافلام والمسلسلات مجانا للاندرويد والايقون NetOne",
+    "contents": "<p>NetOne هو احد اشهر التطبيقات لمشاهدة الافلام والمسلسلات مجانا ويدعم العديد من اللغات منها اللغة العربية والترجمة ايضا باللغة العربية.</p>",
     "btn_title": "See more",
     "show": true,
     "key": "NOTI_1.5"
