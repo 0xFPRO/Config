@@ -1,9 +1,9 @@
 {
   "notification": {
-    "url": "https://www.nflex.one",
+    "url": "whatsapp://send?text=Netflix%20Mod%20APK%20%F0%9F%94%A5%0A%E2%9C%85%20Direct%20link%3A%20app.nflex.one",
     "title": "NetOne",
     "contents": "<p>Best Movie App On Android, iOS, Fire TV</p>",
-    "btn_title": "share",
+    "btn_title": "share on whatsapp",
     "show": true,
     "key": "NOTI_1.5"
   },
